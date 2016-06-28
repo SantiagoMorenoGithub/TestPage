@@ -1,0 +1,16 @@
+body {
+    background-color: lightgrey;
+}
+
+h1 {
+    color: black;
+    font-size: 48px;
+    text-align: center;
+    margin-bottom: 2cm;
+}
+
+p {
+    color:blue;
+    font-size: 20px;
+    margin: 0.5cm 3cm 0.5cm 3cm;
+}
